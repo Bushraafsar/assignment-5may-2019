@@ -1,0 +1,9 @@
+#TASK NO 2
+# PYTHON PROGRAM TO CHECK WHETHER  GIVEN NO. IS ZERO,POSITIVE OR NEGATIVE:
+num = int(input("PLEASE ENTER A NUMBER :"))
+if num == 0:
+    print('THE ABOVE NUMBER IS ZERO!')
+elif num > 0:
+    print("THE ABOVE NUMBER IS POSITIVE!")
+else :
+    print("THE ABOVE NUMBER IS NEGATIVE!") 
